@@ -1,0 +1,4 @@
+Microbit Fruit Reaction Game
+============================
+
+This is a reaction game written in MicroPython for the BBC micro:bit that uses physical fruits as buttons and which I coded as my entry to my year 8 science fair, which I later went on to win. In order to make it function, connect an alligator clip to the bottom of pins 0, 1, 2 and GND on the microbit, then connect pin 0 to an apple, pin 1 to a banana, pin 2 to an orange, and GND to a piece of aluminium foil. To play the game, press button A to start. Then, while holding the aluminium foil down throughout, follow the instructions on the led display, pressing the appple for an a, banana for a b, and orange for an o. The number displayed at the end is your score. This game was inspired by the reaction game on the microbit website, but which instead has two people simultaneously try to tap seperate pieces of alumiunium to react to a single a question.
